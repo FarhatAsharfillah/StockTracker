@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Stock Tracker</string>
+    <string-array name="kategori_barang_array">
+        <item>Bahan Pokok</item>
+        <item>Makanan Ringan</item>
+        <item>Minuman</item>
+        <item>Produk Kebersihan</item>
+        <item>Kebutuhan Rumah Tangga</item>
+        <item>Produk Perawatan Pribadi</item>
+        <item>Makanan Instan</item>
+        <item>Bumbu dan Penyedap</item>
+        <item>Produk Beku / Olahan</item>
+        <item>Lain-lain</item>
+    </string-array>
+    <string-array name="satuan_barang_array">
+        <item>Pcs</item>
+        <item>Kg</item>
+        <item>Liter</item>
+        <item>Karton</item>
+    </string-array>
+</resources>
