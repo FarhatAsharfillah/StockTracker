@@ -1,7 +1,5 @@
 # StockTracker - Mobile Inventory Application
 
-![StockTracker UI / Architecture Diagram](Tautkan-URL-Screenshot-Aplikasi-atau-Postman-Di-Sini)
-
 ## 📖 Case Study
 
 * **Problem:** Manual inventory tracking often leads to data desynchronization and operational delays across multiple user sessions.
@@ -12,6 +10,3 @@
   * Integrated a MySQL database to securely store and fetch item entries.
   * Executed rigorous automated testing to eliminate critical bugs.
 * **Result:** Successfully delivered an application capable of seamlessly synchronizing stock levels for over 100 item entries across multiple concurrent users without latency.
-
-## 🚀 Installation & Setup
-*(Di sinilah baru kamu masukkan langkah-langkah teknis untuk menjalankan kodemu di lokal, seperti `npm install`, `npm start`, dll).*
